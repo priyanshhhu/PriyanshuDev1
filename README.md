@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
 <h3 align="center">A developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/dvql5CVGXGwAAAAi/anime-girl.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshhhu&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshhhu" /> </p>
 
 - 🌱 I’m currently learning **react native**
