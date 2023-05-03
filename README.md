@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
-<h3 align="center">A developer from India</h3>
 
 [![](https://visitcount.itsvg.in/api?id=priyanshhhu&icon=0&color=0)](https://visitcount.itsvg.in)
 
