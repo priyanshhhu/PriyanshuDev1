@@ -1,7 +1,7 @@
-## Connect With Me
+## Get In Touch
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/priyanshudev/)
 
-## Tech Stack
+## Skills
 ![C++](https://img.shields.io/badge/c++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -19,16 +19,23 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23000000.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriyanshuDev1&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuDev1&theme=dark&hide_border=true)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuDev1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## Stats
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyanshuDev1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=000000" alt="GitHub Stats">
+</div>
+
+
+
+<div align="right">
+  <img src="https://dribbble.com/shots/3587000-Coding/attachments/9907911?mode=media" width="400">
+</div>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuDev1&theme=dark&hide_border=true&background=000000)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuDev1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=000000)
+
 
 ## Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=PriyanshuDev1&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
-
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=PriyanshuDev1&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=000000)
 
 ## You can help me by Donating
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&color=black)](https://ko-fi.com/priyanshuu)
-
-
