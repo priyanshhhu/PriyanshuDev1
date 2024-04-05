@@ -1,6 +1,3 @@
-## About Me
-I am a dedicated learner passionate about Artificial Intelligence and Machine Learning.
-
 ## Connect With Me
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/priyanshudev/)
 
