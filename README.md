@@ -1,3 +1,5 @@
+<span style="background-color: #000000; padding: 20px;">
+  
 ## Get In Touch
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/priyanshudev/)
 
@@ -26,9 +28,7 @@
 
 
 
-<div align="right">
-  <img src="https://dribbble.com/shots/3587000-Coding/attachments/9907911?mode=media" width="400">
-</div>
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuDev1&theme=dark&hide_border=true&background=000000)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuDev1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=000000)
@@ -39,3 +39,5 @@
 
 ## You can help me by Donating
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&color=black)](https://ko-fi.com/priyanshuu)
+
+</span>
