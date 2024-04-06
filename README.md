@@ -4,6 +4,11 @@
   <img src="https://komarev.com/ghpvc/?username=priyanshhhu&color=000000&style=for-the-badge&label=Views">
 </p>
 
+## Hey! Nice to see you
+
+Glad you stopped by!   
+I'm Priyanshu, a self-taught developer from 🇮🇳 **India**.
+
 
 ## Coding Sites
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/priyanshudev/)
@@ -41,3 +46,7 @@
 
 ## You can help me by Donating
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&color=black)](https://ko-fi.com/priyanshuu)
+
+<p style="text-align:center">
+  Thank you for visiting my page!  
+</p>
