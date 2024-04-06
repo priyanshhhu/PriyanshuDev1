@@ -47,6 +47,6 @@ I'm Priyanshu, a self-taught developer from 🇮🇳 **India**.
 ## You can help me by Donating
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&color=black)](https://ko-fi.com/priyanshuu)
 
-<p style="text-align:center">
+<p align="center">
   Thank you for visiting my page!  
 </p>
