@@ -1,4 +1,4 @@
-<span style="background-color: #000000; padding: 20px;">
+
   
 ## Get In Touch
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/priyanshudev/)
@@ -23,21 +23,19 @@
 
 ## Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyanshuDev1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=000000" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshhhu&theme=dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=000000" alt="GitHub Stats">
 </div>
 
 
 
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuDev1&theme=dark&hide_border=true&background=000000)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuDev1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=000000)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshhhu&theme=dark&hide_border=true&background=000000)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshhhu&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=000000)
 
 
 ## Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=PriyanshuDev1&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=000000)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=priyanshhhu&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=000000)
 
 ## You can help me by Donating
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&color=black)](https://ko-fi.com/priyanshuu)
-
-</span>
