@@ -32,10 +32,8 @@
 </div>
 
 
-
-
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshhhu&theme=dark&hide_border=true&background=000000)<br/>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshhhu&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=000000)
 
 
@@ -44,3 +42,12 @@
 
 ## You can help me by Donating
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&color=black)](https://ko-fi.com/priyanshuu)
+
+<div align="center">
+<details>
+<summary>Thanks for reading!</summary>
+
+I appreciate you taking the time to read through this. If you have any questions or feedback, feel free to reach out.
+
+</details>
+</div>
