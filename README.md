@@ -1,4 +1,4 @@
-[![Banner](https://i.imgur.com/PElm9D9.png)](https://your_link_here)
+[![Banner](https://i.imgur.com/9xgPEc8.jpeg)](https://your_link_here)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priyanshhhu&color=000000&style=for-the-badge&label=Views">
