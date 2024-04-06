@@ -1,5 +1,10 @@
 [![Banner](https://i.imgur.com/PElm9D9.png)](https://your_link_here)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyanshhhu&color=000000&style=for-the-badge&label=Views">
+</p>
+
+
 ## Coding Sites
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/priyanshudev/)
 
