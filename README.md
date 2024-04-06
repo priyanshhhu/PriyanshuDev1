@@ -7,6 +7,10 @@
 
 ## Coding Sites
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/priyanshudev/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-%23000000.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/23290770)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%23000000.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/priyanshudev1)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-%23000000.svg?style=for-the-badge&logo=HackerEarth&logoColor=white)](https://www.hackerearth.com/@priyanshudev)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%23000000.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/priyanshudev)
 
 ## Skills
 ![C++](https://img.shields.io/badge/c++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
