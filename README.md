@@ -26,7 +26,6 @@ I'm Priyanshu, a self-taught developer from 🇮🇳 **India**.
 ![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23000000.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23000000.svg?style=for-the-badge&logo=django&logoColor=white)
