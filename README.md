@@ -47,5 +47,6 @@ I'm Priyanshu, a self-taught developer from 🇮🇳 **India**.
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&color=black)](https://ko-fi.com/priyanshuu)
 
 <p align="center">
-  Thank you for visiting my page!  
+  Thank you for visiting my page!
+  Keep coding, keep learning, and never stop exploring the endless possibilities of technology!
 </p>
