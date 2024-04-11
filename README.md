@@ -35,7 +35,9 @@ I'm Priyanshu, a self-taught developer from 🇮🇳 **India**.
 
 
 ## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshhhu&theme=dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=000000) ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshhhu&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshhhu&theme=dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=000000) 
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshhhu&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=000000)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshhhu&theme=dark&hide_border=true&background=000000)
 
